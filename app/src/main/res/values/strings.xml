@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Home Object Controller</string>
+    <string name="camera_permission_required">Camera permission is required to use this app</string>
+    <string name="label_dialog_title">Label this object</string>
+    <string name="label_hint">Enter custom label</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete">Delete</string>
+    <string name="tap_object_hint">Tap a detected object to label it</string>
+    <string name="no_objects_detected">No objects detected</string>
+    <string name="objects_detected">%d object(s) detected</string>
+    <string name="custom_label_saved">Custom label saved: %s</string>
+    <string name="custom_label_deleted">Custom label deleted</string>
+</resources>
